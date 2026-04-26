@@ -9,7 +9,7 @@ Built with Next.js (App Router), React, TypeScript, and Tailwind CSS.
 
 | | |
 |---|---|
-| **Live URL** | https://your-deployment.vercel.app |
+| **Live URL** | [https://your-deployment.vercel.app](https://habit-tracker-hng-14-stage-3.vercel.app) |
 | **Stack** | Next.js 14, React 18, TypeScript, Tailwind CSS, localStorage, Vitest, Playwright |
 
 ---
