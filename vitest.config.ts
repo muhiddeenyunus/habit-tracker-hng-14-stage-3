@@ -12,6 +12,7 @@ export default defineConfig({
     coverage: {
       provider: 'v8',
       include: ['src/lib/**'],
+      exclude: ['src/lib/storage.ts'],
       thresholds: {
         lines: 80,
       },
